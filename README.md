@@ -6,7 +6,8 @@ If other clients find these useful we can collaborate in an attempt to turn it i
 
 
 
-- [NID-01: Client Identification Metadata][nid1]
+- [NID-01: Client Identification Metadata][nid1] (is now part of [NIP-89]([NIP-89](https://github.com/nostr-protocol/nips/blob/master/89.md)
+))
 - [NID-02: Website Comments][nid2]
 
 [nid1]: 01.md
