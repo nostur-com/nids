@@ -6,6 +6,8 @@ If other clients find these useful we can collaborate in an attempt to turn it i
 
 
 
-[NID-01: Client Identification Metadata][nid1]
+- [NID-01: Client Identification Metadata][nid1]
+- [NID-02: Website Comments][nid2]
 
 [nid1]: 01.md
+[nid2]: 02.md
