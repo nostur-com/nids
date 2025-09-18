@@ -8,8 +8,10 @@ If other clients find these useful we can collaborate in an attempt to turn it i
 
 - [NID-01: Client Identification Metadata][nid1] (is now part of [NIP-89](https://github.com/nostr-protocol/nips/blob/master/89.md))
 - [NID-02: Website Comments][nid2]
-- [NID-03: Pinned post][nid3]
+- [NID-03: Pinned post][nid3] (implementation in progress)
+- [NID-68B: Picture-first feeds - Backwards compatible][nid68b]
 
 [nid1]: 01.md
 [nid2]: 02.md
 [nid3]: 03.md
+[nid68b]: 68B.md
